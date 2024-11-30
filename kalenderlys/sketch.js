@@ -17,7 +17,7 @@ let endDate = new Date("2024-12-25T00:00:00");
 function draw() {
   // Update the current time
   let currentDate = new Date(); 
-  currentDate = new Date("2024-12-12T00:00:00");
+  //currentDate = new Date("2024-12-12T00:00:00");
 
   // Check if currentDate is within range
   if (currentDate >= startDate && currentDate <= endDate) {
