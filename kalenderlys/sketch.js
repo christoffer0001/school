@@ -38,7 +38,7 @@ function draw() {
     let ms_elapsed = ms_now - ms_december1;
 
     let numberDate = currentDate.getDate();
-    console.log(currentDate + "; Date (day): " + numberDate);
+    //console.log(currentDate + "; Date (day): " + numberDate);
 
 
   
@@ -115,7 +115,7 @@ function draw() {
 
     fill(255, 255, 255);
 
-    console.log(rectCurrentHeight)
+    //console.log(rectCurrentHeight)
     
     
     
